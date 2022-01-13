@@ -40,13 +40,7 @@
 <a href="https://github.com/FaranushKarimov">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaranushKarimov&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/FaranushKarimov/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaranushKarimov&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/FaranushKarimov/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FaranushKarimov&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
